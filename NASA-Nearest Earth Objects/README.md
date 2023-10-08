@@ -9,5 +9,5 @@ I always been curious about the endless possibilties, the beauty and vastness of
 # Results:
 This dataset is very clean which saved me a lot of preprocessing time on it, except for two columns which had only one unique value and could have induced bias into my model if I did't get rid of them before buidling the model. And once I ran my Random Forest model after figuring out the best parameters, I could get 91% prediciton accuracy for my model. I have included the link to the dataset on kaggle and have uploded to my respository as well.
 
-#Feedback: 
+# Feedback: 
 I am always looking forward towards a feedback on my work, do reach out if you think I could have done certain thing in a more efficient way and help me towards my journey to get better at machine learning exploration.
