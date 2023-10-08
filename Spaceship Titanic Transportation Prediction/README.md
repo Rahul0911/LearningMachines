@@ -1,4 +1,4 @@
-Data Source: https://www.kaggle.com/competitions/spaceship-titanic/code
+# Data Source: https://www.kaggle.com/competitions/spaceship-titanic/code
 
 # About the Dataset: 
 If you're a new bee in machine learnnig or an expert, you must have heard or worked with the Titanic Dataset to start your machine learning journey. Well this Titanic dataset is collected from the year 2912 from an intersteller passenger liner called Spaceship Titanic. With 13000 people of on board and on its maiden voyage this spaceship was transporting immigrants from our solar system to three nearby habitable exoplanet orbiting the nearby stars. While rounding Alpha Centauri Spaceship Titanic collided with a spacetime anomaly hidden within a dust cloud and almost half of the passengers were transported to an alternate dimension. To help rescue crews and retrieve the lost passengers, we have to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system. SOUNDS INTERESTING RIGHT?
