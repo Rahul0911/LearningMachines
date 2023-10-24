@@ -11,6 +11,3 @@ Fortunately for me, this dataset was very clean and i didn't have to do a lot of
 
 # Results: 
 To my surprise the LightGBM algorithm worked relatively well against KNeighbors classifier but the random forest and XGB classifer showed better results with 89% accuracy compared to LighGBM classifer with 88% accuracy for this dataset.
-
-# Feedback: 
-I am always looking forward towards a feedback on my work, do reach out if you think I could have done certain thing in a more efficient way and help me towards my journey to get better at machine learning exploration.
