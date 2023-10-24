@@ -10,6 +10,3 @@ Deeper analysis of keys in spotify data: https://www.kaggle.com/code/franoisgeor
 
 # Results: 
 After the exploration and experimentation with the spotify data, I learned how a song being less lively is more popular on spotify and patterns abouts danceability and other factors contributes towards a streaming of a song on the platform. I have also compared the trends of song's popularity amoung differnt streaming platform as well.
-
-# Feedback: 
-I am always looking forward towards a feedback on my work, do reach out if you think I could have done certain thing in a more efficient way and help me towards my journey to get better at machine learning exploration.
