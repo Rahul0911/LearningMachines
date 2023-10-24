@@ -11,6 +11,3 @@ As soon as i read the description about this competition I got excited immidiate
 
 # Results:
 After the cleaning the dataset and I used a stacking classifer which basically uses multiple classification estimators in this case and try to compute the results and use the strength of each individual estimator by using their output as input of a final estimator. And to figure out the best parameter for individual estimators, I have used grid search CV but the code for got deleted by mistake. In the end after preprocessing and building a model, I could get an accuracy of 79.78%.
-
-# Feedback: 
-I am always looking forward towards a feedback on my work, do reach out if you think I could have done certain thing in a more efficient way and help me towards my journey to get better at machine learning exploration.
