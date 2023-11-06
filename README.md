@@ -15,4 +15,4 @@ This very interesting projects aims to predict which nearest outerspace objects 
 This project works with a hypothetical dataset where a spaceship carrying passengers gets stuck into an space anomaly and half of the passengers where transported to an alternate dimension. To rescue all the lost passengers, we have to predict which of them were transported using the data received from the ship.
 
 ## Spotify Data Exploration:
-This experiment is just to satiate my curiosity about the songs hitting the charts in spotify, what factors are contributing towards the success of a song. I used the dataset available on kaggle to do data visualisation and analysis.
+This experiment is just to satiate my curiosity about the songs hitting the charts on spotify, and what are the factors contributing towards the success of a song. I used the dataset available on kaggle to do data visualisation and analysis get a rough idea about the pattern and trends for the songs hitting the charts.
