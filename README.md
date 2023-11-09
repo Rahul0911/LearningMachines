@@ -6,10 +6,10 @@ This repository is my creative space where I explore the fascinating world for m
 Wondering whats inside ?
 
 ## Loan Default Prediction:
-The project works with data collected from financial institutions and aims to predict the customers who are more likely to default their loan
+The project works with data collected from financial institutions and aims to predict the customers who are more likely to default their loan.
 
 ## NASA-Nearest Earth Objects:
-This very interesting projects aims to predict which nearest outerspace objects are harzardous for our beautiful planet by using a openly available NASA dataset
+This very interesting projects aims to predict which nearest outerspace objects are harzardous for our beautiful planet by using a openly available NASA dataset.
 
 ## Spaceship Titanic Transportation Prediction:
 This project works with a hypothetical dataset where a spaceship carrying passengers gets stuck into an space anomaly and half of the passengers where transported to an alternate dimension. To rescue all the lost passengers, we have to predict which of them were transported using the data received from the ship.
