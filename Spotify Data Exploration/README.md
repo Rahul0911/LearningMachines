@@ -4,7 +4,7 @@
 This dataset contains the list of most streamed songs in 2023 and contains a variety of features including but not limited to track's attributes, popularity on spotify and other platforms, release data and presence of key notes.
 
 # Personal Goal: 
-When i first saw the dataset, i got really curious about the data analysis i could do with it and wanted to figure out what are factors contributing towards a song streaming success on spotify being a big fan of spotify platform myself. I got to learn how a certain song properties can help it get streamed more on spotify compared to others, which keys are more popular than the others etc. When i was going through kaggle i came across a notebook that goes deeper into the analysis of key's role on a song's popularity (unfortunately, it comes with very less explanations, but data explorarion part is really good)and i have mentioned it below.
+When i first saw the dataset, i got really curious about the data analysis i could do with it and wanted to figure out what are factors contributing towards a song streaming success on spotify being a big fan of spotify platform myself. I got to learn how a certain song properties can help it get streamed more on spotify compared to others, which keys are more popular than the others etc. When i was going through kaggle i came across a notebook that goes deeper into the analysis of key's role on a song's popularity (unfortunately, it comes with very less explanations, but data exploration part is really good) and i have mentioned it below.
 
 Deeper analysis of keys in spotify data: https://www.kaggle.com/code/franoisgeorgesjulien/spotify-1-what-does-it-take-to-hit-the-charts
 
