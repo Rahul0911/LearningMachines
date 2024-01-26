@@ -21,3 +21,8 @@ This experiment is just to satiate my curiosity about the songs hitting the char
 The dataset in question focuses on the Missing Migrants Project, administered by the International Organization for Migration (IOM) since 2014. The personal goal for analyzing this dataset is to understand global trends in incidents involving migrants and explore the potential relationship between these incidents and external factors.
 
 The findings indicate a significant concentration of incidents near the US-Mexico border, where migrants go missing or perish in attempts to reach their destinations. Despite a gradual decline in incidents globally, there was a sudden increase in 2021. This could be a potential link between this surge and the onset of the COVID-19 pandemic. However, conclusive evidence is lacking due to a lack of data, leaving the exact cause of the sudden spike uncertain.
+
+## Stock Price Prediciton
+This project uses the yfinance API to extract stock data from Yahoo Finance, focusing on the semiconductor company AMD. The dataset comprises six features (Open, Low, High, Close, Adj Close, Volume) indexed by dates, spanning from the late 1900s to the present. My goal was to understand the Long Short-Term Memory (LSTM) networks, a type of recurrent neural network good at handling time series data such as stock price data. 
+
+The model was effective in capturing behavioral trends such as price surges and drops. While not providing exact price predictions, the model offers valuable insights for investment decisions. The next task would be to develop a generalized model that could support more companies and enable the backtrack and forward track durations to be customized for improved prediction capability.
