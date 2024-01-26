@@ -1,6 +1,8 @@
 # Data Source
-I have extracted the stock data from Yahoo Finance website using yfinance API. I have also attached the website and the yfinance API documentation 
+I have extracted the stock data from Yahoo Finance website using yfinance API. I have also attached the website and the yfinance API documentation.
+
 https://ca.finance.yahoo.com/topic/news/
+
 https://pypi.org/project/yfinance/
 
 # About the dataset
