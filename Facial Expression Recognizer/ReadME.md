@@ -12,10 +12,13 @@ Consistency of input data is crucial for effectively training deep learning mode
 # Pipeline - 
 Data Collection -> Data Preprocessing -> Transfer Learning (Pre-trained architectures) -> Integrate with fine tuned YOLO v5
 
-# Architecture Used - 
-ResNet 
+# Pre-trained Architecture Used - 
+ResNet
+
 AlexNet
+
 VGG-16
+
 MobileNet
 
 #Use Cases: 
