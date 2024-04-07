@@ -6,4 +6,3 @@ Architecture used are mentioned below:
 3) VGG-16 Architecture
 4) MObileNet Architecture
 
-The file named yolo is the YOLO algorithm implementation 
