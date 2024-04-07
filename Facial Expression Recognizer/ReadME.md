@@ -1,6 +1,7 @@
 # Data Source - 
-Kaggle.com 
-Huggingface.co
+[Kaggle.com ](https://www.kaggle.com/)
+
+[Huggingface.co](https://huggingface.co/)
 
 # About the Dataset - 
 We gathered two emotion datasets for our project. The first one is from the FER competition, accessible via Kaggle, with seven emotion categories. The second one, from Hugging Face, has eight emotions with different folder labels and no predefined train-test split. We will reclassify the 'Contempt' category and ensure consistency in the folder names and data organization to enable effective preprocessing.
@@ -26,10 +27,15 @@ We developed five models for our project, out of which four were trained using t
 
 # Contributors - 
 Diana Catalina Lopera
+
 Juan Henao Barrios
+
 Harsh Udaybhai Bhatt
+
 Rahul -> Me:)
+
 Robert Kaczur
+
 Zarina Dossaeyva
  
 
