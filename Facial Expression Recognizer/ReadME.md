@@ -21,11 +21,11 @@ VGG-16
 
 MobileNet
 
-#Use Cases: 
+# Use Cases -
 1) Office Moral Monitoring - This implementation can be used to monitor the office environment, and certain threshold could be set, below which it could trigger an alert to the higher management to take required actions.
 2) People suffering from a type of autism, where it is hard for people to understand social cues, sarcasm, irony and other forms of communications.
 
-# Results 
+# Results -
 We developed five models for our project, out of which four were trained using transfer learning through pre-trained architectures mentioned above and one was built from scratch using the classical CNN architecture. The results from the baseline model were very poor compared to the other models. The model that performed the best was the one trained using VGG-16, followed by ResNet and AlexNet. On the other hand, the MobileNet model struggled to achieve an accuracy better than 54%.
 
 # Contributors - 
